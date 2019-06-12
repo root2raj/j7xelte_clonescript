@@ -2,7 +2,7 @@
 
 git clone https://github.com/root2raj/device_samsung_j7xelte.git -b havoc device/samsung/j7xelte
 
-git clone https://github.com/root2raj/device_samsung_exynos7870-common.git -b havoc device/samsung/exynos7870 
+git clone https://github.com/root2raj/device_samsung_exynos7870-common.git -b havoc-9.0 device/samsung/exynos7870 
 
 git clone https://github.com/root2raj/vendor_samsung_j7xelte.git -b lineage-16.0 vendor/samsung/j7xelte 
 
